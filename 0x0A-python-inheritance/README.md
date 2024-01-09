@@ -1,1 +1,1 @@
-README.md file
+# 0x0A. Python - Inheritance
